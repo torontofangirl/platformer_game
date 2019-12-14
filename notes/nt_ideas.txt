@@ -1,0 +1,6 @@
+multiplayer????
+add a way to toggle sound on/off, pitch, volume, and maybe even the background music.
+gravity for crates
+debug: why my land particles look weird?
+player death counter
+2 lives

@@ -1,0 +1,1 @@
+if (room == rm_4) && (!instance_exists(obj_enemy_boss)) room_goto_next()	
