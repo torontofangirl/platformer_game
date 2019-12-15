@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "3784c5d0-01f9-41bd-a888-862b20ebb848",
+            "Value": {
+                "id": "b329b977-03c0-48a7-9275-71c5af2ef9e8",
+                "resourcePath": "scripts\\plant_kill_player\\plant_kill_player.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4098ef45-1032-4031-9ed1-62122875360c",
             "Value": {
                 "id": "3c45f30c-660e-4fff-ae7f-cfff0e3df149",
@@ -663,6 +671,14 @@
             }
         },
         {
+            "Key": "d3d4b6b2-fc3f-48ce-8722-02b559fb3b9d",
+            "Value": {
+                "id": "7cf7f860-bfe3-4634-99df-b152c7ce5b05",
+                "resourcePath": "sprites\\spr_cactus\\spr_cactus.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d418cdc0-8ff9-43c0-9e73-4c2b384ba881",
             "Value": {
                 "id": "3154d809-fc21-4520-beab-1774f15d7a2a",
@@ -708,6 +724,14 @@
                 "id": "d79baaaf-9f03-4f6c-a596-2361763eef8d",
                 "resourcePath": "sprites\\spr_enemy_a\\spr_enemy_a.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "de670ce0-7248-434e-9550-25a9c2ce8fbb",
+            "Value": {
+                "id": "1d746dd7-5b9c-46c2-ba72-c409d8c784d9",
+                "resourcePath": "objects\\obj_cactus\\obj_cactus.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -788,7 +812,8 @@
         "16b2811e-879f-417c-b106-aab249703eb0",
         "1ee6d473-2b73-440b-9d5f-312835852191",
         "2293c0a2-a19d-4ccc-a860-5c7565d6c905",
-        "ac17f39c-0cb9-4bc1-a575-934f91c6f1b8"
+        "ac17f39c-0cb9-4bc1-a575-934f91c6f1b8",
+        "3784c5d0-01f9-41bd-a888-862b20ebb848"
     ],
     "tutorial": ""
 }

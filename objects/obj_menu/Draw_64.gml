@@ -30,7 +30,6 @@ draw_set_colour(c_black)
 draw_rectangle(gui_width, gui_height - 200, gui_width + 900, gui_height, false)
 
 // draw controls and credits
-var offset = 2
 var xxx = 10
 var yyy = 740
 draw_set_text(c_black, fnt_menu, fa_left, fa_bottom)
@@ -40,6 +39,20 @@ draw_text(xxx, yyy - offset, "WASD TO MOVE\nF TO INTERACT\nMUSIC BY EQUINOXX\nht
 draw_text(xxx, yyy + offset, "WASD TO MOVE\nF TO INTERACT\nMUSIC BY EQUINOXX\nhttps://www.youtube.com/watch?v=Yv5OJ9BVGCs")
 draw_set_colour(c_white)
 draw_text(xxx, yyy, "WASD TO MOVE\nF TO INTERACT\nMUSIC BY EQUINOXX\nhttps://www.youtube.com/watch?v=Yv5OJ9BVGCs")
+
+// draw game title
+var xxxx = 150
+var yyyy = 10
+var offset = 12
+var angle = 340
+var scale = 6
+draw_set_text(c_black, fnt_menu, fa_left, fa_top)
+draw_text_transformed(xxxx - offset, yyyy, "The Great\nOutdoors", scale, scale, angle)
+draw_text_transformed(xxxx + offset, yyyy, "The Great\nOutdoors", scale, scale, angle)
+draw_text_transformed(xxxx, yyyy - offset, "The Great\nOutdoors", scale, scale, angle)
+draw_text_transformed(xxxx, yyyy + offset, "The Great\nOutdoors", scale, scale, angle)
+draw_set_colour(c_white)
+draw_text_transformed(xxxx, yyyy, "The Great\nOutdoors", scale, scale, angle)
 
 
 
