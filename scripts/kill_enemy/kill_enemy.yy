@@ -1,8 +1,8 @@
 {
-    "id": "3784c5d0-01f9-41bd-a888-862b20ebb848",
+    "id": "7e7b9e4a-7c70-4670-ae1b-3f3dd5065c90",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "plant_kill_player",
+    "name": "kill_enemy",
     "IsCompatibility": false,
     "IsDnD": false
 }

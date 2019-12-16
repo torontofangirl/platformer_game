@@ -55,20 +55,6 @@
             "value": "5",
             "varName": "hp",
             "varType": 0
-        },
-        {
-            "id": "610b1db5-d790-4b36-8b11-32b689be2dd8",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "flash",
-            "varType": 0
         }
     ],
     "solid": false,

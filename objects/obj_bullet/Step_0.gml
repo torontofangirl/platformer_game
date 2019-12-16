@@ -5,12 +5,11 @@ y += lengthdir_y(spd, direction)
 if (place_meeting(x, y, p_shootable)){
 	with (instance_place(x, y, p_shootable)){
 		hp --
-		flash = 3
+		global.flash = 3
 		hitfrom = other.direction
 	}
 instance_destroy()
 }
-
 
 if (place_meeting(x, y, obj_wall)){
 	while (place_meeting(x, y, obj_wall)){

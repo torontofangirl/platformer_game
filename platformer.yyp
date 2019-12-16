@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "08a8dd75-f4d2-4e54-91d6-80b39d54c342",
+            "Value": {
+                "id": "0579e79b-f316-4fc2-b555-065cbdccd954",
+                "resourcePath": "scripts\\playerstate_attack_combo\\playerstate_attack_combo.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "08d7b996-9f62-4d63-b1c0-d7a34f7372b7",
             "Value": {
                 "id": "09072014-3350-4cbe-8029-58b84477bc58",
@@ -91,6 +99,14 @@
             "Value": {
                 "id": "f8b31186-16b9-4dbb-9834-73b313212f33",
                 "resourcePath": "scripts\\screen_shake\\screen_shake.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1d7714ee-7e13-41d0-b6b5-9ee4f352c307",
+            "Value": {
+                "id": "90454864-1d9b-498b-9555-1f2b0e09bfa2",
+                "resourcePath": "scripts\\playerstate_attack_slash\\playerstate_attack_slash.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -175,6 +191,14 @@
             }
         },
         {
+            "Key": "2d5e6533-49df-4fae-917d-f0f00c2f51ab",
+            "Value": {
+                "id": "267d4097-787e-4e59-932a-38fb40230732",
+                "resourcePath": "scripts\\animation_end\\animation_end.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "3683c775-bb29-4346-9d88-99a8f28d6b75",
             "Value": {
                 "id": "7e6035b8-b59c-4d27-9bd7-a07fca5ab205",
@@ -188,14 +212,6 @@
                 "id": "d10bab10-1d0d-4db1-9366-983659eca04b",
                 "resourcePath": "sprites\\spr_dust\\spr_dust.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "3784c5d0-01f9-41bd-a888-862b20ebb848",
-            "Value": {
-                "id": "b329b977-03c0-48a7-9275-71c5af2ef9e8",
-                "resourcePath": "scripts\\plant_kill_player\\plant_kill_player.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -399,6 +415,14 @@
             }
         },
         {
+            "Key": "76d75ccc-ac3d-4096-9c00-df96f4a34c01",
+            "Value": {
+                "id": "6ba9cdd7-9342-4a6d-873e-5c79f988fdcf",
+                "resourcePath": "scripts\\playerstate_free\\playerstate_free.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "77553870-a108-4501-9a9d-c79529330160",
             "Value": {
                 "id": "06cc1260-2b84-4f06-b867-ec53bdb32b11",
@@ -436,6 +460,14 @@
                 "id": "c9b124ca-d2b4-4a9e-8b23-bea77e6d2031",
                 "resourcePath": "views\\7d32e92e-8750-4281-9bbe-683dd69c6dc1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7e7b9e4a-7c70-4670-ae1b-3f3dd5065c90",
+            "Value": {
+                "id": "5bf812c2-c9af-4ba3-b5f6-948080d98033",
+                "resourcePath": "scripts\\kill_enemy\\kill_enemy.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -500,6 +532,14 @@
                 "id": "9934884d-04d9-4d0c-b19f-1926d4eaea08",
                 "resourcePath": "scripts\\slide_transition\\slide_transition.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "8f687813-b9fc-4a4c-90f5-0ce542d8ceb8",
+            "Value": {
+                "id": "fdcb2e8d-bb55-4948-bd01-406897bd62c7",
+                "resourcePath": "sprites\\spr_attack_slash\\spr_attack_slash.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -759,6 +799,14 @@
             }
         },
         {
+            "Key": "f0df4e11-a50c-4c40-ac68-529df4dd8bba",
+            "Value": {
+                "id": "f9ba462c-b8b6-45d2-a995-315aad5fa2ba",
+                "resourcePath": "sprites\\spr_attack_slash_hb\\spr_attack_slash_hb.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f17665f1-4f98-4229-9fa2-eeafb408f5a3",
             "Value": {
                 "id": "9da396f2-95c2-4f49-b4bf-c73be6a04e3a",
@@ -813,7 +861,10 @@
         "1ee6d473-2b73-440b-9d5f-312835852191",
         "2293c0a2-a19d-4ccc-a860-5c7565d6c905",
         "ac17f39c-0cb9-4bc1-a575-934f91c6f1b8",
-        "3784c5d0-01f9-41bd-a888-862b20ebb848"
+        "76d75ccc-ac3d-4096-9c00-df96f4a34c01",
+        "1d7714ee-7e13-41d0-b6b5-9ee4f352c307",
+        "08a8dd75-f4d2-4e54-91d6-80b39d54c342",
+        "7e7b9e4a-7c70-4670-ae1b-3f3dd5065c90"
     ],
     "tutorial": ""
 }
