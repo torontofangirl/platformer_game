@@ -3,3 +3,5 @@ add a way to toggle sound on/off, pitch, volume, and maybe even the background m
 gravity for crates
 player death counter
 2 lives
+fix hitsparks
+double jump

@@ -1,7 +1,3 @@
-// stop movement
-hsp = 0
-vsp = 0
-
 // start attack
 if (sprite_index != spr_attack_slash){
 	sprite_index = spr_attack_slash
