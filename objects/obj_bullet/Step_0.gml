@@ -4,7 +4,7 @@ y += lengthdir_y(spd, direction)
 // check for collision with pshootable first so you don't hit the wall first
 if (place_meeting(x, y, p_shootable)){
 	with (instance_place(x, y, p_shootable)){
-		hp --
+		hp--
 		global.flash = 3
 		hitfrom = other.direction
 	}
