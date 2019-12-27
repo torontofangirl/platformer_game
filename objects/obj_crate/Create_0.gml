@@ -1,5 +1,4 @@
 /// @description create wall inside crate
-
 mywall = instance_create_layer(x, y, layer, obj_wall)
 with (mywall){
 	image_xscale = other.sprite_width / sprite_width

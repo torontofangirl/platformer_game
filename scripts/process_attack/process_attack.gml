@@ -24,7 +24,7 @@ if (_hits > 0){
 			ds_list_add(hit_by_attack, _hit_id)
 			with (_hit_id){
 				hp -= argument2
-				global.flash = 3
+				flash = 3
 				hitfrom = other.direction
 			}
 		}	
