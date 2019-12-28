@@ -64,4 +64,6 @@ else{
 if (hsp != 0) image_xscale = sign(hsp)
 #endregion
 
-if (key_attack) state = PLAYERSTATE.ATTACK_SLASH
+if (key_attack){
+	state = PLAYERSTATE.ATTACK_SLASH
+}

@@ -5,3 +5,4 @@ player death counter
 2 lives
 fix hitsparks
 double jump
+make how to play check in code so you can change text colour while hovering over

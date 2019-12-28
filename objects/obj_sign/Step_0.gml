@@ -12,3 +12,9 @@ if (instance_exists(obj_player)) && (point_in_circle(obj_player.x, obj_player.y,
 	}
 }
 else nearby = false
+
+if (!nearby){
+	with (obj_camera){
+		follow = obj_player	
+	}
+}
