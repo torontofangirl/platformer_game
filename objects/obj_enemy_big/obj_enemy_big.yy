@@ -17,12 +17,20 @@
             "value": "2"
         },
         {
-            "id": "71d9df2c-5aee-4d7d-84db-e4e968a0084c",
+            "id": "15e96512-7aee-4927-b80f-1882c5e51d59",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "4f4ab6b6-a59b-4908-be1c-d3194e0acdd5",
+            "propertyId": "654fa792-45e3-4a09-911b-f60dd5979c7e",
+            "value": "20"
+        },
+        {
+            "id": "1bdfcbd1-13cc-4ecd-bc58-84ac5d1159bf",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "08d7b996-9f62-4d63-b1c0-d7a34f7372b7",
-            "propertyId": "79cb6f27-9d0e-4e9e-bbbd-9d3d13b3d644",
-            "value": "10"
+            "propertyId": "1c9e063d-285d-494d-a8ff-2101795e9fc1",
+            "value": "2"
         }
     ],
     "parentObjectId": "08d7b996-9f62-4d63-b1c0-d7a34f7372b7",
