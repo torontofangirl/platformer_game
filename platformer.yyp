@@ -567,6 +567,14 @@
             }
         },
         {
+            "Key": "82db9435-33d6-4045-ad6b-f7b6dc7353eb",
+            "Value": {
+                "id": "8992015e-0654-48c1-a444-ba45ee253392",
+                "resourcePath": "objects\\obj_door\\obj_door.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "85c97ce9-64d2-42eb-8a94-60a6ab48ebcd",
             "Value": {
                 "id": "ff0d1335-17b9-43d0-9a4c-dba22176af7d",
@@ -895,6 +903,14 @@
             }
         },
         {
+            "Key": "e7e50a3b-5e21-40af-ab1e-cb536cc5c9a9",
+            "Value": {
+                "id": "9fec5b5f-39ea-4a1c-9768-b5a683022a62",
+                "resourcePath": "sprites\\spr_door\\spr_door.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e92718b0-b9a7-4b63-9e6f-e730ea2f8117",
             "Value": {
                 "id": "d7a9b8a3-223c-4ea8-8d38-ac09ad3d1385",
@@ -979,7 +995,8 @@
         "7e7b9e4a-7c70-4670-ae1b-3f3dd5065c90",
         "2d5e6533-49df-4fae-917d-f0f00c2f51ab",
         "fcb9ef22-bac6-4482-ada2-f814fa5fdd30",
-        "6ccc7705-04fe-45fa-a86c-8521f5e8e1d1"
+        "6ccc7705-04fe-45fa-a86c-8521f5e8e1d1",
+        "2d98c726-edf7-46aa-ba7d-a0adbbb37efa"
     ],
     "tutorial": ""
 }
