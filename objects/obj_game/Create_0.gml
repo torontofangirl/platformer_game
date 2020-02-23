@@ -1,5 +1,3 @@
-/// @description music and macros and globals
-
 audio_play_sound(snd_music, 1, true)
 
 #macro RES_W 1024
