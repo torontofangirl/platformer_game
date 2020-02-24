@@ -894,7 +894,7 @@
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Trees",
+            "name": "Parallax1",
             "id": "8c027f3f-d983-4ff2-8069-9db046b94122",
             "animationFPS": 15,
             "animationSpeedType": "0",
@@ -929,7 +929,7 @@
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Mountains",
+            "name": "Parallax2",
             "id": "54d2bd0c-d1b1-4916-a10e-9608232cd54c",
             "animationFPS": 15,
             "animationSpeedType": "0",
