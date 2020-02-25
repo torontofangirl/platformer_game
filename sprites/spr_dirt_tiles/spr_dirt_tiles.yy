@@ -2,7 +2,7 @@
     "id": "25c03c33-aa21-47b0-93e9-95d6d7743f00",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_tiles",
+    "name": "spr_dirt_tiles",
     "For3D": false,
     "HTile": false,
     "VTile": false,
