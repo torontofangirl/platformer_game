@@ -15,11 +15,11 @@ ds_list_add(waves, [1, obj_enemy_tiny, 0, 50])
 ds_list_add(waves, [1, obj_enemy_tiny, 0, 60])
 
 ds_list_add(waves, [2, obj_enemy_hasweapon, 1, 10])
-ds_list_add(waves, [2, obj_enemy_hasweapon, 1, 20])
-ds_list_add(waves, [2, obj_enemy_hasweapon, 1, 30])
+ds_list_add(waves, [2, obj_enemy, 1, 20])
+ds_list_add(waves, [2, obj_enemy, 1, 30])
 ds_list_add(waves, [2, obj_enemy, 1, 40])
 ds_list_add(waves, [2, obj_enemy, 1, 50])
-ds_list_add(waves, [2, obj_enemy, 1, 60])
+ds_list_add(waves, [2, obj_enemy_hasweapon, 1, 60])
 
 spawn[0, 0] = 2500 //xcor 1
 spawn[0, 1] = 450 //ycor 1
