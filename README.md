@@ -1,2 +1,4 @@
 # platformer_game
-A simple platformer game written in GML based off of Shaun Spalding's series. (This was mainly just to learn how to use GM)
+Copy paste from a tutorial to learn GML, lol
+
+I would private this but I like my shiny Arctic Code Vault badge :p
